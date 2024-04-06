@@ -1,1 +1,1 @@
-# GatlingExample
+# k6Example
